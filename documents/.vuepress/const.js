@@ -66,3 +66,13 @@ exports.ProgramLangList = [
   "Programming-Languages/RecursiveandHigher-OrderProgramming(2).md",
   "Programming-Languages/Designandimplementation.md"
 ];
+
+exports.SystemList = [
+  "System-Security/SetUID_01.md",
+  "System-Security/SetUID_02.md",
+  "System-Security/EnvironmentVariables01.md",
+  "System-Security/EnvironmentVariables01(2).md",
+  "System-Security/EnvironmentVariables02.md",
+  "System-Security/Shellshock.md",
+  "System-Security/Buffer_overflow.md"
+];
