@@ -56,7 +56,7 @@ exports.JavaScriptList = [
 ];
 
 exports.MILList = [
-  "System-Security/EnvironmentVariables02.md"
+  "MIL/mil-2108.md"
 ];
 
 exports.ProgramLangList = [
