@@ -56,7 +56,7 @@ exports.JavaScriptList = [
 ];
 
 exports.MILList = [
-  "System-Security/Shellshock.md"
+  "System-Security/EnvironmentVariables02.md"
 ];
 
 exports.ProgramLangList = [
@@ -68,12 +68,12 @@ exports.ProgramLangList = [
   "Programming-Languages/Designandimplementation.md"
 ];
 
-// exports.SystemList = [
-//   "System-Security/SetUID_01.md",
-//   "System-Security/SetUID_02.md",
-//   "System-Security/EnvironmentVariables01.md",
-//   "System-Security/EnvironmentVariables01(2).md",
-//   "System-Security/EnvironmentVariables02.md",
-//   "System-Security/Shellshock.md",
-//   "System-Security/Buffer_overflow.md"
-// ];
+exports.SystemList = [
+  "System-Security/SetUID_01.md",
+  "System-Security/SetUID_02.md",
+  "System-Security/EnvironmentVariables01.md",
+  "System-Security/EnvironmentVariables01(2).md",
+  "System-Security/EnvironmentVariables02.md",
+  "System-Security/Shellshock.md",
+  "System-Security/Buffer_overflow.md"
+];
